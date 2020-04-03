@@ -1,6 +1,7 @@
 /* 
   This code is for the AIR LAB orientation and position tracker project.
-  More info and resources if found at GitHub: xxx
+  More info and resources are found at GitHub: 
+    - https://github.com/airlabitu/Tutorials/tree/master/Orientation_and_position_tracker
   Code and project by: Halfdan Hauch Jensen, halj@itu.dk, AIR LAB, IT University of Cph.
   Please make sure to credit when reusing this code... :-)
 */
