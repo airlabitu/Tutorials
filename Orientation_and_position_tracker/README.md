@@ -6,6 +6,6 @@ Find the tutorial at: https://airlab.itu.dk/orientation-and-position-tracking/
 
 In this tutorial folder there are three subfolders containing the following:
 
-- <b>Headgear</b>: (design files for printing and building the headgear)
+- Headgear: (design files for printing and building the headgear)
 - Orientation_and_rotation_video_file: (A version of the tracker code using a video file as input)
 - Orientation_and_rotation_kinect: (A version of the code using a Kinect as input)
