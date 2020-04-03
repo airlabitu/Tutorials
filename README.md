@@ -1,5 +1,5 @@
 # Tutorials
-Repository with all AIR LABs tutorial resources
+Repository with resources for the AIR LAB tutorials
 
 ## Orientation and position tracker
 A Processing based video tracker using the IR cam in the Kinect, and a custom headgear to track a persons orientation and position.
