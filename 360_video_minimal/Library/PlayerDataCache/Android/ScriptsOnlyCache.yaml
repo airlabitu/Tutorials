@@ -1652,4 +1652,4 @@ ScriptsOnlyBuild:
   platform: 13
   scenePathNames:
   - Assets/Scenes/VideoSphere.unity
-  playerPath: /Users/Private/Unity/360_video_minimal/Build/video_360_minimal.apk
+  playerPath: /Users/halj/Documents/airlab_github/Tutorials/360_video_minimal/Build/video_360_minimal.apk

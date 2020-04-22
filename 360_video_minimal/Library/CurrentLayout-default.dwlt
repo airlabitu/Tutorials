@@ -48,7 +48,7 @@ MonoBehaviour:
   m_MinSize: {x: 679, y: 492}
   m_MaxSize: {x: 14002, y: 14042}
   vertical: 0
-  controlID: 103
+  controlID: 115
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -219,7 +219,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 492}
   m_MaxSize: {x: 10001, y: 14042}
   vertical: 1
-  controlID: 104
+  controlID: 116
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -244,7 +244,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 221}
   m_MaxSize: {x: 8003, y: 4021}
   vertical: 0
-  controlID: 105
+  controlID: 117
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -338,19 +338,19 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Resources
+    - Assets/Videos
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Resources
+  - Assets/Videos
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: /Users/Private/Unity/360_video_minimal
+  m_LastProjectPath: /Users/halj/Documents/airlab_github/Tutorials/360_video_minimal
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 843c0000
-    m_LastClickedID: 15492
+    m_SelectedIDs: 8e3c0000
+    m_LastClickedID: 15502
     m_ExpandedIDs: 00000000743a0000763a000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -472,7 +472,7 @@ MonoBehaviour:
     m_PrefName: Preview_InspectorPreview
   m_PreviewWindow: {fileID: 0}
   m_LastInspectedObjectInstanceID: -1
-  m_LastVerticalScrollValue: 0
+  m_LastVerticalScrollValue: 293
 --- !u!114 &15
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -504,7 +504,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 12f7ffff2cf7ffff4af9ffff70fbffff
+      m_ExpandedIDs: 76f6ffff8ef6ffff90f6ffff44f7ffff5ef7ffff78f9ffff70fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -552,7 +552,7 @@ MonoBehaviour:
     x: 401
     y: 80
     width: 808
-    height: 528
+    height: 530
   m_ViewDataDictionary: {fileID: 0}
   m_ShowContextualTools: 0
   m_WindowGUID: d5e193660250f41b09c0afa88c2014a2
@@ -616,9 +616,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0.0010222321, y: 0.73168844, z: 0.0010977446, w: -0.68163764}
   m_Size:
-    m_Target: 57.060043
+    m_Target: 198.77452
     speed: 2
-    m_Value: 57.060043
+    m_Value: 198.77452
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -698,8 +698,8 @@ MonoBehaviour:
     m_VAllowExceedBaseRangeMin: 1
     m_VAllowExceedBaseRangeMax: 1
     m_ScaleWithWindow: 0
-    m_HSlider: 1
-    m_VSlider: 1
+    m_HSlider: 0
+    m_VSlider: 0
     m_IgnoreScrollWheelUntilClicked: 0
     m_EnableMouseInput: 1
     m_EnableSliderZoomHorizontal: 0
@@ -712,18 +712,18 @@ MonoBehaviour:
       y: 21
       width: 808
       height: 509
-    m_Scale: {x: 1.8649092, y: 1.8649094}
-    m_Translation: {x: 433.08603, y: 179.55919}
+    m_Scale: {x: 1, y: 1}
+    m_Translation: {x: 404, y: 254.5}
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
     m_MarginBottom: 0
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
-      x: -232.22902
-      y: -96.283066
-      width: 433.26508
-      height: 272.93552
+      x: -404
+      y: -254.5
+      width: 808
+      height: 509
     m_MinimalGUI: 1
   m_defaultScale: 1
   m_LastWindowPixelSize: {x: 1616, y: 1060}

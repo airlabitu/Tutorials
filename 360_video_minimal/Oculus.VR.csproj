@@ -148,10 +148,10 @@
     <None Include="Assets\Oculus\VR\Shaders\OVRVignette.shader" />
     <None Include="Assets\Oculus\VR\Resources\Unlit Transparent Color.shader" />
     <Reference Include="UnityEditor.UI">
-      <HintPath>/Users/Private/Unity/360_video_minimal/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+      <HintPath>/Users/halj/Documents/airlab_github/Tutorials/360_video_minimal/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-      <HintPath>/Users/Private/Unity/360_video_minimal/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+      <HintPath>/Users/halj/Documents/airlab_github/Tutorials/360_video_minimal/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>/Applications/Unity/Hub/Editor/2019.3.9f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
