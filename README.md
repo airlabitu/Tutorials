@@ -6,5 +6,5 @@ A Processing based video tracker using the IR cam in the Kinect, and a custom he
 ([link](https://github.com/airlabitu/Tutorials/tree/master/Orientation_and_position_tracker))
 
 ## 360 video minimal
-A Unity project showing a way of displaying a 360 video set up in a Oculus Quest project.
+A Unity project showing a way of displaying a 360 video set up as a Oculus Quest project.
 ([link](https://github.com/airlabitu/Tutorials/tree/master/360_video_minimal))
