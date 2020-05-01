@@ -9,6 +9,6 @@ A Processing based video tracker using the IR cam in the Kinect, and a custom he
 A Unity project showing a way of displaying a 360 video set up as a Oculus Quest project.
 ([link](https://github.com/airlabitu/Tutorials/tree/master/360_video_minimal))
 
-## Quest Controller Pointing Test
+## Quest controller pointing test
 A Unity project showing a way of making raycasting based point and click with the Oculus Quest controllers.
 ([link](https://github.com/airlabitu/Tutorials/tree/master/QuestControllerPointingTest))
