@@ -14,4 +14,4 @@ A Unity project showing a way of making raycasting based point and click with th
 ([link](https://github.com/airlabitu/Tutorials/tree/master/QuestControllerPointingTest))
 
 ## Scheduling Processing sketches on Raspberry PI
-Example code for this tutorial found under airlab.itu.dk/tutorials
+Example code for this tutorial found under ([airlab.itu.dk/tutorials] (https://airlab.itu.dk/tutorials))
