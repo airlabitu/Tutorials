@@ -15,4 +15,4 @@ A Unity project showing a way of making raycasting based point and click with th
 
 ## Scheduling Processing sketches on Raspberry PI
 Example code for this tutorial found here. 
-([link](https://airlab.itu.dk/scheduling-processing-sketches-on-raspberry-pi/))
+([airlab.itu.dk/scheduling-processing-sketches-on-raspberry-pi/](https://airlab.itu.dk/scheduling-processing-sketches-on-raspberry-pi/))
