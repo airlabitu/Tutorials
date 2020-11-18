@@ -1,4 +1,5 @@
 ## Reading RFID tags in Processing with the OLIMEX MOD-RFID125 scanner
+This example shows how to read RFID tags from the Processing code enviroment, using the OLIMEX MOD-RFID125 scanner. The scanner emulates a USB keyboard, making this a very easy think get started with.
 
 ### Needed to run this example
 - 1 x OLIMEX MOD-RFID125 scanner
