@@ -1,4 +1,4 @@
-## Reading RFID tags from Processing with the OLIMEX MOD-RFID125 scanner
+## Reading RFID tags in Processing with the OLIMEX MOD-RFID125 scanner
 
 ### Needed to run this example
 #### 1 x OLIMEX MOD-RFID125 scanner
