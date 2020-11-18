@@ -16,3 +16,7 @@ A Unity project showing a way of making raycasting based point and click with th
 ## Scheduling Processing sketches on Raspberry PI
 Example code for this tutorial found here. 
 ([airlab.itu.dk/scheduling-processing-sketches-on-raspberry-pi/](https://airlab.itu.dk/scheduling-processing-sketches-on-raspberry-pi/))
+
+## Reading RFID tags from Processing with the MOD-RFID125 RFIS scanner
+A very easy way of working with RFID tags in Processing. The MOD-RFID125 emulates a keyborad, why no advanced setup, or drivers are needed. 
+([link](https://github.com/airlabitu/Tutorials/tree/master/OLIMEX_RFID_scanner%20))
