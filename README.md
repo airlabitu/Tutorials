@@ -24,3 +24,9 @@ A very easy way of working with RFID tags in Processing. The MOD-RFID125 emulate
 ## Playing MP3 Files on an Arduino via SD Card and the DFMini Player Module
 A simple way of playing MP3 files on an SD Card via an Arduino, two examples provided: example A (simple) and B (intermediate)
 ([link](https://github.com/airlabitu/Tutorials/tree/master/Arduino-MP3_DF-Mini-Player))
+
+## KY-037 Sound Module for Arduino
+Measure sound levels on an Arduino easily via the KY-037 Sound Module
+([link](https://github.com/airlabitu/Tutorials/tree/master/KY-037_Sound_Module))
+
+
