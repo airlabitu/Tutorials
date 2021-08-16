@@ -17,6 +17,10 @@ A Unity project showing a way of making raycasting based point and click with th
 Example code for this tutorial found here. 
 ([airlab.itu.dk/scheduling-processing-sketches-on-raspberry-pi/](https://airlab.itu.dk/scheduling-processing-sketches-on-raspberry-pi/))
 
-## Reading RFID tags from Processing with the MOD-RFID125 RFIS scanner
-A very easy way of working with RFID tags in Processing. The MOD-RFID125 emulates a keyborad, why no advanced setup, or drivers are needed. 
+## Reading RFID tags from Processing with the MOD-RFID125 RFID scanner
+A very easy way of working with RFID tags in Processing. The MOD-RFID125 emulates a keyboard, with no advanced setup, or drivers are needed. 
 ([link](https://github.com/airlabitu/Tutorials/tree/master/OLIMEX_RFID_scanner%20))
+
+## Playing MP3 Files on an Arduino via SD Card and the DFMini Player Module
+A simple way of playing MP3 files on an SD Card via an Arduino, two examples provided: example A (simple) and B (intermediate)
+([link](https://github.com/airlabitu/Tutorials/tree/master/Arduino-MP3_DF-Mini-Player))
