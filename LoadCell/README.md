@@ -1,2 +1,2 @@
-# Measuring Sound Level inputs via Arduino and a KY-037 Module
-In this code example we display how you can measure sound levels with an Arduino dynamically, and/or set a threshold that produces digital HIGH/LOW values. Full documentation and wiring diagrams can be found via [this link](https://airlab.itu.dk/measuring-sound-level-with-ky-037-and-arduino/) to AIR LABs webpage
+# Measuring weight with load cells and arduino
+With this code we provide a *bare-minimum* example for getting started with load cells. The code is tested using a single 20kg load cell in a kitchen-scale-style setup. The programming will tare the weight when started and following request a calibration weighing of 500 "units" or grams. Full documentation and wiring diagrams can be fouind via [this link](https://airlab.itu.dk/measuring-load-cells-with-arduino/) to AIR LABs webpage
