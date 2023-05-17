@@ -32,3 +32,7 @@ Measure sound levels on an Arduino easily via the KY-037 Sound Module
 ## Load Cells with Arduino
 Measure weight with Load Cells and Arudino
 ([link](https://github.com/airlabitu/Tutorials/tree/master/LoadCell))
+
+## Playing mp3 files from Arduino UNO
+Using the Sparkfun mp3 player shield to play mp3 files from an Arduino UNO. One example (bare minimum) is provided.
+([link](https://github.com/airlabitu/Tutorials/tree/master/Sparkfun_mp3_shield)
