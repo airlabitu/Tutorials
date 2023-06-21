@@ -23,7 +23,7 @@ int prev_x = 50;
 
 
 //The select EEG channel to process. Can be selected as 5-9, see eventbased function below for more information
-int channel = 5;
+int channel = 8;
 
 void setup() {
   size(1000, 500);
@@ -38,7 +38,6 @@ void setup() {
 
 
 void draw() {
-  println(frameRate);
 
   if (new_data) {
     for (int i = 0; i < raw_data.size(); i++) {
