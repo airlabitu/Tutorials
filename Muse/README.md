@@ -1,1 +1,2 @@
-
+# Interfacing Muse S headset with processing
+This repository provides two example codes to interface the Muse S headband with processing. The examples showcases a simple visualization of raw data streams from both PPG and EEG sensors within the headband to use as starting point for projects. A full tutorial and walkthrough for connection can be found at [this link](https://airlab.itu.dk/interfacing-muse-s-headset-with-processing/) to AIR LABs webpage
