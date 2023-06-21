@@ -61,7 +61,7 @@ void oscEvent(OscMessage theOscMessage) {
    *  The functions if statement serves to ignore all the other streams available from muse (EEG, Accel, Gyro), 
    *  and filters out desired ppg data to be handled in the draw loop.
    * 
-   *  The PPG-message contains the following data:
+   *  The PPG-message contains the following data with an overall typetag of iififfff:
    *  [0:4] ID-data such as timestamps etc
    *  [5] Ambient (green) light levels from the sensor
    *  [6] Infrared  light levels from the sensor
