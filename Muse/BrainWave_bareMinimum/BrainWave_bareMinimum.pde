@@ -4,7 +4,7 @@
  * Based on oscP5sendreceive by andreas schlegel
  *
  * This example utilizes Petal Metrics to provide an OSC datastream from the Muse S headset.
- * See more information for setup at URL:
+ * See more information for setup at URL: https://airlab.itu.dk/interfacing-muse-s-headset-with-processing/
  */
 
 import oscP5.*;
