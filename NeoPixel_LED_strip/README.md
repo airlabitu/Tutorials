@@ -7,7 +7,7 @@ A NeoPixel strip is an LED strip in which each individual LED can be independent
 - Arduino
 - NeoPixel LED strip
 - Jumper wires
-- External power supply (if needed for longer LED strips)
+- External power supply (needed for longer LED strips)
 
 ### Trying it out
 
