@@ -51,3 +51,8 @@ Measure weight with Load Cells and Arudino
 
 Using the Sparkfun mp3 player shield to play mp3 files from an Arduino UNO. One example (bare minimum) is provided.
 ([link](https://github.com/airlabitu/Tutorials/tree/master/Sparkfun_mp3_shield))
+
+## Wekinator exampels
+
+Using wekinator to implement machine learning algorithms into your project!
+([link](https://github.com/airlabitu/Tutorials/tree/master/Wekinator_examples))
