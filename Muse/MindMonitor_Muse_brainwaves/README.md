@@ -1,0 +1,1 @@
+This folder contains a example proccesing script to recieve OSC from the Mind monitor app. See the tutorial for using the mind monitor app here: [this link](https://airlab.itu.dk/mind-monitor-brainwaves-from-the-muse/) to AIR LABs webpage.

@@ -42,6 +42,7 @@ void draw() {
 
 // Incoming OSC messages are forwarded to the oscEvent method.
 void oscEvent(OscMessage theOscMessage) {
+  
   String address = theOscMessage.addrPattern();
   
   if (address.equals("/muse/elements/horseshoe")){
@@ -61,31 +62,42 @@ void oscEvent(OscMessage theOscMessage) {
       println(address.substring("/muse/elements/".length()) + ": " + "TP9 connection: " + connection[0] + ", AF7 connection: " + connection[1] + ", AF8 connection: " + connection[2]  + ", TP10 connection: " + connection[3]);
   }
   
-  // Check if the address is in the list of element names
-  if (elementData.containsKey(address)) {
-    // Extract the value from the received OSC message
-    float value_TP9 = theOscMessage.get(0).floatValue();
-    float value_AF7 = theOscMessage.get(1).floatValue();
-    float value_AF8 = theOscMessage.get(2).floatValue();
-    float value_TP10 = theOscMessage.get(3).floatValue();
   
+  // Check if the address is in the list of element names
+  else if (elementData.containsKey(address)) {
+    // Extract the value from the received OSC message
+    float value_TP9;
+    float value_AF7;
+    float value_AF8;
+    float value_TP10;
     
     // Determine which values to use based on the connection array
     float value = 0.0;
     
+    try {
+      value_TP9 = theOscMessage.get(0).floatValue();
+      value_AF7 = theOscMessage.get(1).floatValue();
+      value_AF8 = theOscMessage.get(2).floatValue();
+      value_TP10 = theOscMessage.get(3).floatValue();
+      
+      if (connection[0]) {
+        value += value_TP9;
+      }
+      if (connection[1]) {
+        value += value_AF7;
+      }
+      if (connection[2]) {
+        value += value_AF8;
+      }
+      if (connection[3]) {
+        value += value_TP10;
+      }
     
-    if (connection[0]) {
-      value += value_TP9;
     }
-    if (connection[1]) {
-      value += value_AF7;
+    catch (Exception e) {
+      println("Change settings in MindMonitor: Set OSC Stream brainwaves to 'All values' instead of 'Averege'.");
     }
-    if (connection[2]) {
-      value += value_AF8;
-    }
-    if (connection[3]) {
-      value += value_TP10;
-    }
+    
     
     // Find number of active connections
     int activeConnections = 0;
