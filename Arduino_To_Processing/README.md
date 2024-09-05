@@ -4,4 +4,5 @@ Examples of programs wherein arduino- and processing sketches interact with each
 In this specific example, a processing program draws an interactive, growing box of blue-colored lines, controlled by an Arduino equipped with a potentiometer
 
 See the full tutorial at our website!
-(Arduino/Processing Serial Communication Tutorial)[airlab.itu.dk/serial-communication-between-arduino-and-processing]
+
+([link](airlab.itu.dk/serial-communication-between-arduino-and-processing))
