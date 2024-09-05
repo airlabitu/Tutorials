@@ -60,5 +60,5 @@ Using wekinator to implement machine learning algorithms into your project!
 ## Arduino <-> Processing examples (Serial communication)
 
 Communicating from Arduino to a processing program using serial communication!
-([link](https://github.com/airlabitu/Tutorials/tree/master/Arduino_To_processing))
+([link](https://github.com/airlabitu/Tutorials/tree/master/Arduino_To_Processing))
 
