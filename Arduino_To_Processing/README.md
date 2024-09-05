@@ -5,4 +5,4 @@ In this specific example, a processing program draws an interactive, growing box
 
 See the full tutorial at our website!
 
-([link](airlab.itu.dk/serial-communication-between-arduino-and-processing))
+([link](https://airlab.itu.dk/serial-communication-between-arduino-and-processing))
