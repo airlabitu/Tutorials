@@ -5,4 +5,4 @@ Make sure to have an Arduino and an addressable LED strip at hand, before runnin
 
 See the full tutorial at our website!
 
-([link](https://airlab.itu.dk/tutorial-controlling-an-led-strip-with-processing))
+([link](https://airlab.itu.dk/serial-communication-between-arduino-and-processing))
